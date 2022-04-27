@@ -1,0 +1,12 @@
+body {
+  position: absolute;
+  top: 40%;
+  left: 45%;
+  height: 100px;
+  width: 200px;
+}
+
+.msg {
+  font-size: 22px;
+  color: deepskyblue;
+}
